@@ -1,0 +1,1 @@
+Bu proje Codemagic ile APK üretimi için hazırlandı.
